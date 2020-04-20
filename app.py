@@ -8,6 +8,7 @@ import dash_html_components as html
 from dash.dependencies import State, Input, Output
 import plotly as py
 from plotly import graph_objs as go
+import pathlib
 
 
 
@@ -882,6 +883,5 @@ def update_house_price(choro_click, choro_figure, dd_select):
         return generate_house_graph("Maricopa", dd_select)
 
 
-
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
