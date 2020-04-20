@@ -1,0 +1,315 @@
+,designatedArea,incidentType
+776,Pima ,Flood
+790,Maricopa ,Flood
+797,Graham ,Flood
+809,Pinal ,Flood
+831,Greenlee ,Flood
+1780,Maricopa ,Flood
+1791,Coconino ,Flood
+1796,Navajo ,Flood
+1939,Gila ,Flood
+1951,Apache ,Flood
+1952,Cochise ,Flood
+2427,Maricopa ,Flood
+2485,Pinal ,Flood
+2506,Pima ,Flood
+2635,Graham ,Flood
+2675,Greenlee ,Flood
+4852,Pinal ,Flood
+4930,Pima ,Flood
+4957,Coconino ,Flood
+4971,Graham ,Flood
+4977,Yavapai ,Flood
+4988,Apache ,Flood
+4993,Gila ,Flood
+4998,Santa Cruz ,Flood
+5030,Pima ,Flood
+5064,Greenlee ,Flood
+5078,Mohave ,Flood
+5147,Greenlee ,Flood
+5227,Navajo ,Flood
+5297,Gila ,Flood
+5320,Maricopa ,Flood
+5357,Gila ,Flood
+5371,Maricopa ,Flood
+5390,Graham ,Flood
+5398,Greenlee ,Flood
+5511,Navajo ,Flood
+5513,Maricopa ,Flood
+5695,Pima ,Flood
+5701,Mohave ,Flood
+5823,Yavapai ,Flood
+5956,Mohave ,Flood
+5991,Santa Cruz ,Flood
+6036,Navajo ,Flood
+6043,Mohave ,Severe Storm(s)
+6067,Navajo ,Flood
+6172,Mohave ,Flood
+6394,Pinal ,Flood
+6399,Gila ,Flood
+6484,Yuma ,Flood
+6501,Yavapai ,Flood
+6583,La Paz ,Flood
+6652,Cochise ,Flood
+6855,Pima ,Flood
+6885,Graham ,Flood
+6899,Yuma ,Severe Storm(s)
+7412,Maricopa ,Flood
+7421,Gila Bend Indian Reservation,Flood
+7550,Apache ,Flood
+7638,Graham ,Flood
+7891,Pinal ,Flood
+7977,Coconino ,Flood
+8088,Yavapai ,Flood
+8372,Gila ,Flood
+8477,Apache ,Flood
+8503,Gila ,Flood
+8523,Graham ,Flood
+9030,Maricopa ,Flood
+9119,Coconino ,Flood
+9229,Pima ,Flood
+9472,Greenlee ,Flood
+9484,Yavapai ,Flood
+9690,Santa Cruz ,Flood
+9861,Pinal ,Flood
+9953,Navajo ,Flood
+10116,Cochise ,Flood
+10136,Yuma ,Flood
+10467,Pima ,Flood
+13694,Maricopa ,Severe Storm(s)
+15266,Statewide,Severe Storm(s)
+15649,Maricopa ,Severe Storm(s)
+15700,La Paz ,Severe Storm(s)
+16232,Cochise ,Severe Storm(s)
+16532,Yavapai ,Severe Storm(s)
+16607,Cochise ,Severe Storm(s)
+16761,Gila River Indian Reservation,Severe Storm(s)
+17021,Gila ,Fire
+17072,Apache ,Fire
+17240,Coconino ,Fire
+17428,White Mountain Apache Tribe,Fire
+18077,Santa Cruz ,Severe Storm(s)
+18183,Pinal ,Severe Storm(s)
+18456,Navajo ,Fire
+18768,Apache ,Severe Storm(s)
+19201,Pima ,Fire
+20207,Greenlee ,Severe Storm(s)
+20265,Pinal ,Severe Storm(s)
+20348,Navajo Nation Reservation (Also NM and UT,Severe Storm(s)
+20471,Gila ,Severe Storm(s)
+20576,Coconino ,Severe Storm(s)
+20726,Navajo Nation Reservation (Also NM and UT,Severe Storm(s)
+20953,Gila ,Severe Storm(s)
+21043,Maricopa ,Severe Storm(s)
+21379,Hopi Indian Reservation,Severe Storm(s)
+21614,Yavapai ,Severe Storm(s)
+21741,Hopi Indian Reservation,Severe Storm(s)
+21819,Havasupai Indian Reservation,Severe Storm(s)
+21904,Yavapai ,Severe Storm(s)
+21951,Gila River Indian Reservation,Severe Storm(s)
+22016,San Carlos Indian Reservation,Severe Storm(s)
+22129,Pima ,Severe Storm(s)
+22141,Navajo Nation Reservation (Also NM and UT,Severe Storm(s)
+22223,Mohave ,Severe Storm(s)
+22288,Greenlee ,Severe Storm(s)
+22608,Tohono O'odham Reservation and Trust Lands,Severe Storm(s)
+22619,Hopi Indian Reservation,Severe Storm(s)
+22733,San Carlos Indian Reservation,Severe Storm(s)
+22795,Navajo ,Severe Storm(s)
+23060,Mohave ,Severe Storm(s)
+23125,Graham ,Severe Storm(s)
+23236,Hopi Indian Reservation,Severe Storm(s)
+23429,Gila ,Severe Storm(s)
+23826,Pinal ,Severe Storm(s)
+24028,Graham ,Severe Storm(s)
+24842,Navajo ,Severe Storm(s)
+24996,San Carlos Indian Reservation,Severe Storm(s)
+25045,Gila River Indian Reservation,Severe Storm(s)
+25461,Navajo ,Severe Storm(s)
+25863,Tohono O'odham Reservation and Trust Lands,Severe Storm(s)
+25934,Hopi Indian Reservation,Severe Storm(s)
+26012,Coconino ,Severe Storm(s)
+26790,Coconino ,Fire
+26852,Mohave ,Severe Storm(s)
+27068,Gila River Indian Reservation,Severe Storm(s)
+27242,Greenlee ,Fire
+27544,La Paz ,Severe Storm(s)
+27739,Statewide,Fire
+27745,Maricopa ,Fire
+27904,Greenlee ,Severe Storm(s)
+28066,Statewide,Fire
+28071,Navajo ,Fire
+28259,Havasupai Indian Reservation,Severe Storm(s)
+28396,Santa Cruz ,Fire
+28408,Statewide,Fire
+28426,Navajo ,Fire
+28437,Apache ,Severe Storm(s)
+28450,Cochise ,Fire
+28466,Coconino ,Fire
+28485,White Mountain Apache Tribe,Severe Storm(s)
+28667,Coconino ,Severe Storm(s)
+28826,Statewide,Fire
+28863,Statewide,Fire
+28921,Pima ,Fire
+28922,Navajo Nation Reservation (Also NM and UT,Severe Storm(s)
+28963,Cochise ,Fire
+28981,Yavapai ,Fire
+29159,Gila ,Fire
+29163,Navajo ,Fire
+29224,Statewide,Fire
+29263,Cochise ,Fire
+29337,Graham ,Drought
+29377,Yavapai ,Severe Storm(s)
+29437,Statewide,Fire
+29501,Coconino ,Fire
+29510,Pinal ,Fire
+29667,Statewide,Fire
+29695,Gila ,Severe Storm(s)
+29707,Statewide,Fire
+29741,Statewide,Fire
+29764,Gila ,Fire
+29991,Cochise ,Fire
+30026,Statewide,Fire
+30063,Yavapai ,Fire
+30160,Coconino ,Drought
+30205,Navajo ,Fire
+30248,Coconino ,Fire
+30257,Statewide,Fire
+30322,Coconino ,Fire
+30421,Yavapai ,Fire
+30511,Yavapai ,Fire
+30690,Statewide,Fire
+30699,Statewide,Fire
+30745,White Mountain Apache Tribe,Fire
+30850,Mohave ,Fire
+30867,Yavapai ,Drought
+30963,Navajo ,Fire
+30983,Pinal ,Drought
+31072,Pinal ,Fire
+31128,Apache ,Fire
+31543,Statewide,Fire
+31811,Yavapai ,Fire
+31911,Gila ,Fire
+32361,Pinal ,Fire
+32449,Apache ,Fire
+32461,Cochise ,Drought
+32550,Maricopa ,Fire
+32630,Gila ,Fire
+32902,Mohave ,Drought
+32942,Gila ,Fire
+33029,Maricopa ,Fire
+33914,Apache ,Drought
+34132,Navajo ,Drought
+34182,Yavapai ,Fire
+37287,Mohave ,Hurricane
+37293,Pima ,Hurricane
+37294,Cochise ,Hurricane
+37301,Yavapai ,Hurricane
+37302,La Paz ,Hurricane
+37303,Coconino ,Hurricane
+37306,Maricopa ,Hurricane
+37312,Navajo ,Hurricane
+37315,Greenlee ,Hurricane
+37317,Santa Cruz ,Hurricane
+37318,Pinal ,Hurricane
+37319,Yuma ,Hurricane
+37336,Graham ,Hurricane
+37340,Gila ,Hurricane
+37416,Apache ,Hurricane
+40020,Apache ,Severe Storm(s)
+40029,Coconino ,Severe Storm(s)
+40096,Hopi Indian Reservation,Severe Storm(s)
+40104,Navajo Nation Reservation (Also NM and UT,Severe Storm(s)
+40107,Navajo ,Severe Storm(s)
+44517,Navajo Nation Reservation (Also NM and UT,Freezing
+45722,La Paz ,Flood
+45739,Maricopa ,Flood
+48658,Havasupai Indian Reservation,Flood
+49548,Tohono O'odham Reservation and Trust Lands,Severe Storm(s)
+49742,Navajo Nation Reservation (Also NM and UT,Severe Storm(s)
+49980,Yavapai ,Fire
+49997,Mohave ,Fire
+50005,Yavapai ,Fire
+50055,Pinal ,Fire
+50072,Mohave ,Fire
+50074,Coconino ,Fire
+50086,Yavapai ,Fire
+50088,Pinal ,Fire
+50102,Cochise ,Fire
+50105,Yavapai ,Fire
+50179,Coconino ,Fire
+50190,Yavapai ,Fire
+50409,Coconino ,Fire
+52816,Statewide,Biological
+52983,Cocopah Indian Reservation,Biological
+52984,Colorado River Indian Reservation (Also CA,Biological
+52985,White Mountain Apache Tribe,Biological
+52986,Fort McDowell Indian Reservation,Biological
+52987,Fort Mojave Indian Reservation (Also CA,Biological
+52988,Fort Yuma (Quechan) Indian Reservation (Also CA,Biological
+52989,Havasupai Indian Reservation,Biological
+52990,Gila River Indian Reservation,Biological
+52991,Hopi Indian Reservation,Biological
+52992,Kaibab Indian Reservation,Biological
+52993,Maricopa Indian Reservation (Ak Chin,Biological
+52994,Hualapai Indian Reservation,Biological
+52995,Navajo Nation Reservation (Also NM and UT,Biological
+52996,Pascua Yaqui Indian Reservation,Biological
+52997,San Carlos Indian Reservation,Biological
+52998,Salt River Indian Reservation,Biological
+52999,Tohono O'odham Reservation and Trust Lands,Biological
+53000,Tonto Apache Reservation,Biological
+53001,Yavapai-Apache Nation Indian Reservation,Biological
+53002,Yavapai Indian Reservation,Biological
+53003,Zuni Pueblo (Indian Reservation,Biological
+53004,Apache ,Biological
+53005,Cochise ,Biological
+53006,Coconino ,Biological
+53007,Gila ,Biological
+53008,Graham ,Biological
+53009,Greenlee ,Biological
+53010,La Paz ,Biological
+53011,Maricopa ,Biological
+53012,Mohave ,Biological
+53013,Santa Cruz ,Biological
+53014,Navajo ,Biological
+53015,Pima ,Biological
+53016,Pinal ,Biological
+53017,Yavapai ,Biological
+53018,Yuma ,Biological
+58280,Cocopah Indian Reservation,Biological
+58281,Colorado River Indian Reservation (Also CA,Biological
+58282,White Mountain Apache Tribe,Biological
+58283,Fort McDowell Indian Reservation,Biological
+58284,Fort Mojave Indian Reservation (Also CA,Biological
+58285,Fort Yuma (Quechan) Indian Reservation (Also CA,Biological
+58286,Gila River Indian Reservation,Biological
+58287,Havasupai Indian Reservation,Biological
+58288,Hopi Indian Reservation,Biological
+58289,Hualapai Indian Reservation,Biological
+58290,Kaibab Indian Reservation,Biological
+58291,Navajo Nation Reservation (Also NM and UT,Biological
+58292,Maricopa Indian Reservation (Ak Chin,Biological
+58293,Pascua Yaqui Indian Reservation,Biological
+58294,Salt River Indian Reservation,Biological
+58295,San Carlos Indian Reservation,Biological
+58296,Tohono O'odham Reservation and Trust Lands,Biological
+58297,Tonto Apache Reservation,Biological
+58298,Yavapai-Apache Nation Indian Reservation,Biological
+58299,Yavapai Indian Reservation,Biological
+58300,Zuni Pueblo (Indian Reservation,Biological
+58301,Cochise ,Biological
+58302,Apache ,Biological
+58303,Coconino ,Biological
+58304,Gila ,Biological
+58305,Greenlee ,Biological
+58306,Graham ,Biological
+58307,La Paz ,Biological
+58308,Maricopa ,Biological
+58309,Mohave ,Biological
+58310,Navajo ,Biological
+58311,Pima ,Biological
+58312,Pinal ,Biological
+58313,Santa Cruz ,Biological
+58314,Yavapai ,Biological
+58315,Yuma ,Biological
