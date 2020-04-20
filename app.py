@@ -10,27 +10,29 @@ import plotly as py
 from plotly import graph_objs as go
 import pathlib
 
+# Path
+BASE_PATH = pathlib.Path(__file__).parent.resolve()
+DATA_PATH = BASE_PATH.joinpath("Data").resolve()
 
-
-with open("/Users/lly/dash_az/Data/us-arizona-counties.json") as geocounty:
+with open(DATA_PATH.joinpath("us-arizona-counties.json")) as geocounty:
     azgeo = json.load(geocounty)
 
 
-arizona_unemploy = pd.read_csv("/Users/lly/dash_az/Data/arizona_unemploy.csv")
+arizona_unemploy = pd.read_csv(DATA_PATH.joinpath("arizona_unemploy.csv"))
 
 #read population dataset
-azPPL = pd.read_csv("/Users/lly/dash_az/Data/population.csv")
+azPPL = pd.read_csv(DATA_PATH.joinpath("population.csv"))
 azPPL['CTYNAME']= azPPL['CTYNAME'].str.replace("County", "")
 
-arizona_residentPop = pd.read_csv("/Users/lly/dash_az/Data/arizona_unemploy.csv")
+arizona_residentPop = pd.read_csv(DATA_PATH.joinpath("arizona_residentPop.csv"))
 
-arizona_commute = pd.read_csv("/Users/lly/dash_az/Data/arizona_commute.csv")
+arizona_commute = pd.read_csv(DATA_PATH.joinpath("arizona_commute.csv"))
 
-arizona_medianIncome = pd.read_csv("/Users/lly/dash_az/Data/arizona_medianIncome.csv")
+arizona_medianIncome = pd.read_csv(DATA_PATH.joinpath("arizona_medianIncome.csv"))
 
-arizona_edu = pd.read_csv("/Users/lly/dash_az/Data/arizona_edu.csv")
+arizona_edu = pd.read_csv(DATA_PATH.joinpath("arizona_edu.csv"))
 
-acsdata = pd.read_csv("/Users/lly/Data/ACS.csv")
+acsdata = pd.read_csv(DATA_PATH.joinpath("ACS.csv"))
 
 #filter gender data
 filter_pct = ["COUNTY", "PCT_FEMALE", "PCT_MALE"]
@@ -76,18 +78,18 @@ filter_poverty = ["COUNTY", "PCT_INCOME_BELOW_POVERTY"]
 df_poverty = acsdata.loc[:, filter_poverty]
 arizona_poverty = df_poverty.rename(columns = {"PCT_INCOME_BELOW_POVERTY": "POVERTY_RATE"})
 
-arizona_1bd = pd.read_csv("/Users/lly/dash_az/Data/arizona_1bd.csv")
+arizona_1bd = pd.read_csv(DATA_PATH.joinpath("arizona_1bd.csv"))
 
-arizona_2bd = pd.read_csv("/Users/lly/dash_az/Data/arizona_2bd.csv")
+arizona_2bd = pd.read_csv(DATA_PATH.joinpath("arizona_2bd.csv"))
 
-arizona_3bd = pd.read_csv("/Users/lly/dash_az/Data/arizona_3bd.csv")
+arizona_3bd = pd.read_csv(DATA_PATH.joinpath("arizona_3bd.csv"))
 
-arizona_4bd = pd.read_csv("/Users/lly/dash_az/Data/arizona_4bd.csv")
+arizona_4bd = pd.read_csv(DATA_PATH.joinpath("arizona_4bd.csv"))
 
-arizona_5bd = pd.read_csv("/Users/lly/dash_az/Data/arizona_5bd.csv")
+arizona_5bd = pd.read_csv(DATA_PATH.joinpath("arizona_5bd.csv"))
 
 #read national park dataset
-with open("/Users/lly/dash_az/Data/national-parks.json") as parks:
+with open(DATA_PATH.joinpath("national-parks.json")) as parks:
     geoParks = json.load(parks)
 state = ["Arizona"]
 azparks = [d for d in geoParks if d['State'] in state]
@@ -95,13 +97,13 @@ azparks = [d for d in geoParks if d['State'] in state]
 df_azparks = pd.DataFrame(azparks)
 df_azparks = df_azparks[~df_azparks['Location Name'].str.startswith('Glen')]
 
-df_azdisaster = pd.read_csv("/Users/lly/dash_az/Data/df_azdisaster.csv")
+df_azdisaster = pd.read_csv(DATA_PATH.joinpath("df_azdisaster.csv"))
 #read median housing growth rate dataset
-arizona_mHouseGrowth = pd.read_csv("/Users/lly/dash_az/Data/arizona_mHouse_growth.csv")
+arizona_mHouseGrowth = pd.read_csv(DATA_PATH.joinpath("arizona_mHouse_growth.csv"))
 
-arizona_climate = pd.read_csv("/Users/lly/dash_az/Data/arizona_climate.csv")
+arizona_climate = pd.read_csv(DATA_PATH.joinpath("arizona_climate.csv"))
 
-arizona_occpwage = pd.read_csv("/Users/lly/dash_az/Data/arizona_occpwage.csv")
+arizona_occpwage = pd.read_csv(DATA_PATH.joinpath("arizona_occpwage.csv"))
 #####################################################################################################
 
 app = dash.Dash()
